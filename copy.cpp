@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //gitにしたときに文字化けしたが正直一部の数字の表記以外いらないので改修は後程
 #include <Windows.h>
 #include <synchapi.h>
 #include "copy.hpp"
